@@ -6,7 +6,7 @@ sys.path.append(root)
 
 from binance import ThreadedWebsocketManager
 
-api_key = "<api_key>"
+api_key = "TEST"
 api_secret = "<api_secret>"
 
 
